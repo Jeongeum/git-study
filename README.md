@@ -6,4 +6,4 @@ git clone 까지 했어요!
 
 ## 소스트리에서 commit push pull 해보기
 
-1. 치킨좋아
+1. 치킨좋은데싫어요
